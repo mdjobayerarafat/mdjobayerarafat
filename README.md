@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdjobayerarafat@gmail.com**
 
-- 📄 Know about my experiences [www.jobayerarafat.com](www.jobayerarafat.com)
+- 📄 Know about my experiences [www.jobayerarafat.com](www.mdjobayerarafat.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
