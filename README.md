@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdjobayerarafat](https://github.com/mdjobayerarafat)
 
-- 📝 I regularly write articles on [www.jobayerarafat.com](www.jobayerarafat.com)
+- 📝 I regularly write articles on [www.jobayerarafat.live](www.jobayerarafat.live)
 
 - 📫 How to reach me **mdjobayerarafat@gmail.com**
 
-- 📄 Know about my experiences [www.jobayerarafat.com](www.mdjobayerarafat.live)
+- 📄 Know about my experiences [www.jobayerarafat.live](www.mdjobayerarafat.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
