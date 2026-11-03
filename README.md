@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6F42C1&height=220&section=header&text=Jobayer%20Arafat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Animated blue and purple wave header reading Jobayer Arafat" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+with+Django+%26+Flutter;Learning+Cybersecurity+%26+Ethical+Hacking;Always+curious%2C+always+building" alt="Animated typing text: Building with Django and Flutter; Learning cybersecurity and ethical hacking; Always curious, always building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+with+Django+%26+Flutter;Learning+Cybersecurity+%26+Ethical+Hacking;Always+curious%2C+always+building;Welcome+to+my+GitHub" alt="Animated typing text introducing Jobayer" />
   <br /><br />
   <a href="https://github.com/mdjobayerarafat"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
   <a href="https://www.jobayerarafat.live"><img src="https://img.shields.io/badge/Blog-Read%20my%20articles-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read my articles" /></a>
@@ -56,6 +56,18 @@ I'm a developer from Bangladesh exploring backend engineering and cybersecurity.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+## 📊 GitHub dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdjobayerarafat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="Live GitHub contribution and repository statistics" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjobayerarafat&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most used programming languages on GitHub" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=mdjobayerarafat&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdjobayerarafat&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
+
 ## 🌐 Connect
 
 <div align="center">
@@ -69,5 +81,5 @@ I'm a developer from Bangladesh exploring backend engineering and cybersecurity.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,100:36BCF7&height=100&section=footer" width="100%" alt="Decorative animated wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,100:36BCF7&height=100&section=footer" width="100%" alt="Decorative wave footer" />
 </div>
