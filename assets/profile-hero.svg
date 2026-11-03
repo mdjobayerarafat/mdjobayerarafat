@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Jobayer Arafat — backend developer and cybersecurity enthusiast</title>
+  <desc id="description">Animated blue and violet gradient profile banner with subtle moving lights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101b3f"><animate attributeName="stop-color" values="#101b3f;#142d4f;#241344;#101b3f" dur="12s" repeatCount="indefinite"/></stop>
+      <stop offset="55%" stop-color="#253c78"><animate attributeName="stop-color" values="#253c78;#176b78;#4b327f;#253c78" dur="12s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#442d78"><animate attributeName="stop-color" values="#442d78;#293d81;#155b72;#442d78" dur="12s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#58d6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8de8ff" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#a68cff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <circle cx="120" cy="85" r="52" fill="#43d5ff" opacity=".12" filter="url(#glow)"><animate attributeName="cx" values="120;260;120" dur="11s" repeatCount="indefinite"/></circle>
+  <circle cx="1070" cy="255" r="70" fill="#aa8cff" opacity=".16" filter="url(#glow)"><animate attributeName="cx" values="1070;930;1070" dur="13s" repeatCount="indefinite"/></circle>
+  <circle cx="985" cy="82" r="2.5" fill="#c9f4ff"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="215" cy="265" r="2" fill="#d7ccff"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></circle>
+  <path d="M0 270 C220 205 365 330 590 262 S970 205 1200 272" fill="none" stroke="url(#line)" stroke-width="2" opacity=".75">
+    <animate attributeName="d" values="M0 270 C220 205 365 330 590 262 S970 205 1200 272;M0 250 C220 315 365 210 590 270 S970 325 1200 245;M0 270 C220 205 365 330 590 262 S970 205 1200 272" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="130" text-anchor="middle" fill="#f4f7ff" font-family="system-ui,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="2">JOBAYER ARAFAT</text>
+  <text x="600" y="180" text-anchor="middle" fill="#d7e8ff" font-family="system-ui,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="4">DEVELOPER · BANGLADESH</text>
+  <text x="600" y="235" text-anchor="middle" fill="#8de8ff" font-family="monospace" font-size="21" font-weight="600" opacity="1">
+    BACKEND DEVELOPER
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.43;.5;.93;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="235" text-anchor="middle" fill="#c8aaff" font-family="monospace" font-size="21" font-weight="600" opacity="0">
+    CYBERSECURITY ENTHUSIAST
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.43;.5;.93;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+</svg>
