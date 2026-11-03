@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title">
+  <title id="title">Keep exploring</title>
+  <defs><linearGradient id="g"><stop stop-color="#36bcf7"><animate attributeName="stop-color" values="#36bcf7;#8c72ff;#36bcf7" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#8c72ff"/></linearGradient></defs>
+  <path d="M0 35 C180 90 300 0 490 42 S810 92 980 38 S1110 5 1200 35 V100 H0Z" fill="url(#g)" opacity=".75"/>
+  <text x="600" y="69" text-anchor="middle" fill="#ffffff" font-family="system-ui,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2">KEEP EXPLORING · KEEP BUILDING</text>
+</svg>
