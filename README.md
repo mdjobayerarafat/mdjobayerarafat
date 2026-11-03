@@ -1,30 +1,26 @@
 <div align="center">
-
-# Hi, I'm Jobayer 👋
-
-### Backend Developer · Cybersecurity Enthusiast
-
-Based in Bangladesh 🇧🇩
-
-[![Blog](https://img.shields.io/badge/Blog-Read%20my%20articles-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.jobayerarafat.live)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdjobayerarafat)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6F42C1&height=220&section=header&text=Jobayer%20Arafat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Animated blue and purple wave header reading Jobayer Arafat" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+with+Django+%26+Flutter;Learning+Cybersecurity+%26+Ethical+Hacking;Always+curious%2C+always+building" alt="Animated typing text: Building with Django and Flutter; Learning cybersecurity and ethical hacking; Always curious, always building" />
+  <br /><br />
+  <a href="https://github.com/mdjobayerarafat"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
+  <a href="https://www.jobayerarafat.live"><img src="https://img.shields.io/badge/Blog-Read%20my%20articles-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read my articles" /></a>
 </div>
 
 ---
 
-## About
+## 👋 About me
 
-I'm a developer exploring the worlds of backend engineering and cybersecurity. I enjoy learning by building, and I'm currently growing my skills across web development, mobile apps, and security.
+I'm a developer from Bangladesh exploring backend engineering and cybersecurity. I enjoy learning by building and growing my skills across web development, mobile apps, and security.
 
 - 🎓 Working with the [Microsoft Student Ambassadors program](https://mvp.microsoft.com/en-US/studentambassadors/profile/af028c38-d58c-4b23-a4d7-781a0db9936a)
-- 🌱 Learning Django, cybersecurity, ethical hacking, Flutter, C++, Dart, and Python
+- 🌱 Currently learning Django, cybersecurity, ethical hacking, Flutter, C++, Dart, and Python
 - 🤝 Open to collaborating on Django projects
 - 💬 Happy to connect about Dart and development
 - ✍️ I write articles at [jobayerarafat.live](https://www.jobayerarafat.live)
 - 📄 [Read about my experience](https://www.mdjobayerarafat.live)
 
-## Technologies & Tools
+## ⚡ Tech stack
 
 **Languages**
 
@@ -60,18 +56,18 @@ I'm a developer exploring the worlds of backend engineering and cybersecurity. I
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## Find me around the web
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-jobayer-arafat-a14b61284)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jubayer_arafat_)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mdjobayerarafat)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@mdjobayerarafat)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/@mdjobayerarafat)
-
-📫 **Email:** [mdjobayerarafat@gmail.com](mailto:mdjobayerarafat@gmail.com)
-
----
+## 🌐 Connect
 
 <div align="center">
-  <sub>Thanks for stopping by — feel free to explore my repositories and say hello.</sub>
+  <a href="https://linkedin.com/in/md-jobayer-arafat-a14b61284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/jubayer_arafat_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://twitter.com/mdjobayerarafat"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.hackerrank.com/@mdjobayerarafat"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://codeforces.com/profile/@mdjobayerarafat"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <br /><br />
+  📫 <a href="mailto:mdjobayerarafat@gmail.com">mdjobayerarafat@gmail.com</a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,100:36BCF7&height=100&section=footer" width="100%" alt="Decorative animated wave footer" />
 </div>
