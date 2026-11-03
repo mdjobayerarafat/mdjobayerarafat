@@ -1,6 +1,10 @@
 <p align="center"><img src="./assets/profile-hero.svg" width="100%" alt="Animated Jobayer Arafat profile banner" /></p>
 
 <p align="center">
+  <img src="./assets/jobayer-profile-picture.jpg" width="200" alt="Jobayer's illustrated profile portrait against a city skyline at night" />
+</p>
+
+<p align="center">
   <a href="https://github.com/mdjobayerarafat">GitHub projects</a> ·
   <a href="https://www.jobayerarafat.live">Articles</a> ·
   <a href="mailto:mdjobayerarafat@gmail.com">Email</a>
